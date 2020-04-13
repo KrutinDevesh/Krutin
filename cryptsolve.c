@@ -11,7 +11,7 @@ vector<int> use(10);
 struct node
 {
     char c;
-    int v;
+    int digit;
 };
 
 // function check for correct solution
